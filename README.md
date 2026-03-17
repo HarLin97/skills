@@ -6,6 +6,7 @@
 
 - **tutor/** - 数学教学视频制作流程，使用 Manim 生成带配音的动画
 - **dlna/** - DLNA 设备控制工具，用于控制电视/音响播放媒体
+- **claude-in-tmux/** - 为 OpenClaw 提供的 Claude Code 后台运行技能，支持 tmux 会话管理和日志追踪
 
 ## 说明
 
